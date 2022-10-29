@@ -1,1 +1,3 @@
 "Hello Git World GGGGGGGGGH"
+
+var x = 0;
